@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Тестирование
 description: Обучаемся профессии Q|A Enjineer
-url: "https://pmarsceill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://enjeneer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 remote_theme: pmarsceill/just-the-docs
 permalink: pretty
 
